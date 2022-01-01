@@ -14,3 +14,8 @@ Use # to get the statistics of your API key. (/stats #)
 Installation
 Put the mod in your fucking mod folder, if you don't have forge there's a million videos on YouTube
 When you're on Hypixel, do /setkey (key). If you need a new API key, do /api new.
+
+
+Resources and Credit:
+Simple Stats by Nora Cos (mew)
+Hypixel API at api.hypixel.net
